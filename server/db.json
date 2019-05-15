@@ -1,19 +1,18 @@
 {
   "streams": [
+   
     {
-      "title": "Test",
-      "description": "Test",
+      "title": "I created this stream",
+      "description": "this was made by me",
+      "userId": "105038765348846185121",
       "id": 1
     },
+   
     {
-      "title": "Test2",
-      "description": "Test2",
+      "title": "Ooga booga",
+      "description": "Navigation test",
+      "userId": "105038765348846185121",
       "id": 2
-    },
-    {
-      "title": "Test Final",
-      "description": "final test",
-      "id": 3
     }
   ]
 }
