@@ -1,18 +1,30 @@
 {
   "streams": [
-   
     {
       "title": "I created this stream",
-      "description": "this was made by me",
-      "userId": "105038765348846185121",
+      "description": "this was edited by me",
       "id": 1
     },
-   
     {
       "title": "Ooga booga",
-      "description": "Navigation test",
-      "userId": "105038765348846185121",
+      "description": "Test edit",
       "id": 2
+    },
+    {
+      "title": "After component reuse",
+      "description": "yetasdasd",
+      "id": 3
+    },
+    {
+      "title": "asdasd",
+      "description": "asadsadsadsdd",
+      "id": 4
+    },
+    {
+      "title": "Edit test",
+      "description": "edeidneindiden",
+      "userId": "105038765348846185121",
+      "id": 5
     }
   ]
 }
