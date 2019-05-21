@@ -1,30 +1,10 @@
 {
   "streams": [
     {
-      "title": "I created this stream",
-      "description": "this was edited by me",
-      "id": 1
-    },
-    {
-      "title": "Ooga booga",
-      "description": "Test edit",
-      "id": 2
-    },
-    {
-      "title": "After component reuse",
-      "description": "yetasdasd",
-      "id": 3
-    },
-    {
-      "title": "asdasd",
-      "description": "asadsadsadsdd",
-      "id": 4
-    },
-    {
-      "title": "Edit test",
-      "description": "edeidneindiden",
+      "title": "Finished REST stuff",
+      "description": "test",
       "userId": "105038765348846185121",
-      "id": 5
+      "id": 1
     }
   ]
 }
